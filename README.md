@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=4aduddu&label=Profile%20views&color=0e75b6&style=flat" alt="4aduddu" /> </p>
 
-- 🌱 I’m currently learning **Laravel,Code Igniter 4,Flutter,Unity 3D,React,SpringBoot,**
+- 🌱 I’m currently learning **Laravel,Code Igniter 4,Flutter,Unity 3D,React,SpringBoot**
 
 - 📫 How to reach me **adriyanmahaputra009@gmail.com**
 
