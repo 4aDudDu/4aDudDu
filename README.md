@@ -70,29 +70,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,figma,blender,arduino"/>
 </p>
 
-### 🚀 Also Experienced In
 
-<p align="center">
-
-`REST API`
-`CI/CD`
-`GitHub Actions`
-`Docker Compose`
-`Nginx`
-`MQTT`
-`ESP32`
-`Arduino`
-`IoT`
-`IT Support`
-`Linux Server`
-`Hackintosh`
-`VirtualBox`
-`VMware`
-`Networking`
-`Windows Server`
-`Hardware Troubleshooting`
-
-</p>
 
 
 
@@ -114,17 +92,7 @@
 
 </p>
 
----
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=4aduddu&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
 
 # 👀 Profile Views
 
