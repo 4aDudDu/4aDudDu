@@ -35,9 +35,62 @@
 
 # 💻 Tech Stack
 
+### 🌐 Frontend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite"/>
+</p>
+
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,spring,java,python"/>
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+</p>
+
+### 🗄️ Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,postman,bash"/>
+</p>
+
+### 🔧 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,php,dart,lua,js,ts"/>
+</p>
+
+### 🛠️ Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,figma,blender,arduino"/>
+</p>
+
+### 🚀 Also Experienced In
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,nodejs,flutter,dart,java,spring,python,cpp,cs,unity,mysql,sqlite,postgres,docker,linux,git,github,firebase,postman,tailwind,bootstrap,figma,vscode&perline=8"/>
+`REST API`
+`CI/CD`
+`GitHub Actions`
+`Docker Compose`
+`Nginx`
+`MQTT`
+`ESP32`
+`Arduino`
+`IoT`
+`IT Support`
+`Linux Server`
+`Hackintosh`
+`VirtualBox`
+`VMware`
+`Networking`
+`Windows Server`
+`Hardware Troubleshooting`
 
 </p>
 
