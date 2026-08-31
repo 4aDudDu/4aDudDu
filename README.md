@@ -1,18 +1,15 @@
 <div align="center">
-  <!-- ANIMATED HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:0072FF&text=Hi%20👋,%20I'm%20Adryan%20Maha%20Putra&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
-  
-  <br/><br/>
-  
-  <!-- TYPING SVG -->
-  <a href="https://github.com/4aDudDu">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00E7FF&center=true&vCenter=true&random=false&width=900&lines=🚀+Versatile+Software+Engineer;🖥️+Desktop+%26+Backend+|+VB.NET+|+ASP.NET+Core;📱+Cross-Platform+Mobile+with+Flutter;⚡+Web+|+React.js+|+Next.js+|+Laravel+|+CodeIgniter;🗄️+Infrastructure+|+IIS+|+Docker+|+SQL+Server" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:0072FF&text=Hi%20👋,%20I'm%20Adryan%20Maha%20Putra&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+<br/><br/>
+<a href="https://github.com/4aDudDu">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00E7FF&center=true&vCenter=true&random=false&width=900&lines=🚀+Versatile+Software+Engineer;🖥️+Desktop+%26+Backend+|+VB.NET+|+ASP.NET+Core;📱+Cross-Platform+Mobile+with+Flutter;⚡+Web+|+React.js+|+Next.js+|+Laravel+|+CodeIgniter;🗄️+Infrastructure+|+IIS+|+Docker+|+SQL+Server" alt="Typing SVG" />
+</a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=4aDudDu&style=for-the-badge&color=00C6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <br/>
 
-<!-- ABOUT & STATS SECTION -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -33,10 +30,9 @@
 </td>
 <td width="45%" valign="top" align="center">
 
-<!-- LIVE STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=4aDudDu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E7FF&icon_color=00E7FF" width="95%" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=4aDudDu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E7FF&icon_color=00E7FF" width="100%" alt="Github Stats" />
 <br/><br/>
-<img src="https://streak-stats.demolab.com?user=4aDudDu&theme=tokyonight&hide_border=true&fire=00E7FF&ring=00E7FF" width="95%" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=4aDudDu&theme=tokyonight&hide_border=true&fire=00E7FF&ring=00E7FF" width="100%" alt="Streak Stats" />
 
 </td>
 </tr>
@@ -44,62 +40,50 @@
 
 <br/>
 
-<!-- GITHUB TROPHIES (ACHIEVEMENTS) -->
-<h2 align="center">🏆 GitHub Achievements</h2>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="4aDudDu Trophies" />
-  </a>
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/separator.gif" width="100%"/>
+</div>
+
+<h2 align="center">⚡ Technology Stack</h2>
+<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite,php,laravel,nodejs,express,dotnet,cs,flutter,dart,python,java,sqlserver,mysql,postgres,sqlite,firebase,docker,linux,git,github,postman,figma&perline=15" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+<img src="https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=iis&logoColor=white" />
+<img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 </div>
 
 <br/>
 
-<!-- TOP LANGUAGES (AUTO GENERATED) -->
-<h2 align="center">📊 Most Used Languages</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aDudDu&layout=compact&theme=tokyonight&hide_border=true&title_color=00E7FF" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/separator.gif" width="100%"/>
+</div>
+
+<h2 align="center">🏆 GitHub Achievements & Analytics</h2>
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</a>
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aDudDu&layout=compact&theme=tokyonight&hide_border=true&title_color=00E7FF" alt="Top Languages" />
 </div>
 
 <br/>
 
-<!-- FEATURED PROJECTS (PORTFOLIO) -->
-<h2 align="center">💼 Highlighted Projects & Progress</h2>
-<div align="center">
-  <p><i>Here are some of my active repositories and projects I've built across Web, Mobile, and Desktop platforms.</i></p>
-  
-  <!-- KARTU PROJECT 1 & 2 -->
-  <a href="https://github.com/4aDudDu/NAMA_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=4aDudDu&repo=NAMA_REPO_1&theme=tokyonight&hide_border=true&title_color=00E7FF" width="48%" />
-  </a>
-  <a href="https://github.com/4aDudDu/NAMA_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=4aDudDu&repo=NAMA_REPO_2&theme=tokyonight&hide_border=true&title_color=00E7FF" width="48%" />
-  </a>
-  
-  <br/><br/>
-  
-  <!-- KARTU PROJECT 3 & 4 -->
-  <a href="https://github.com/4aDudDu/NAMA_REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=4aDudDu&repo=NAMA_REPO_3&theme=tokyonight&hide_border=true&title_color=00E7FF" width="48%" />
-  </a>
-  <a href="https://github.com/4aDudDu/NAMA_REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=4aDudDu&repo=NAMA_REPO_4&theme=tokyonight&hide_border=true&title_color=00E7FF" width="48%" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
 <h2 align="center">📉 Contribution Activity</h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&theme=tokyo-night&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&theme=bright&hide_border=true&area=true">
-    <img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&theme=tokyo-night&hide_border=true&area=true" width="100%">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&theme=tokyo-night&hide_border=true&area=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&theme=bright&hide_border=true&area=true">
+<img alt="Contribution Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&theme=tokyo-night&hide_border=true&area=true" width="100%">
+</picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=4aDudDu&style=for-the-badge&color=00C6FF&label=DASHBOARD+VIEWS" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0072FF,100:00C6FF&section=footer"/>
 </div>
