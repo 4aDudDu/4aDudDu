@@ -327,35 +327,9 @@ Web and admin system for a specialized roleplay server ecosystem.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&bg_color=0d1117&color=7CFFB2&line=ff4ddb&point=e2e8f0&area=true&area_color=7CFFB2&hide_border=true" width="100%" alt="Contribution Activity"/>
 
 </div>
 
----
-
-## `>_ ./05_CONTRIBUTION_MATRIX.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution matrix"/>
-
-</div>
-
-> dynamic contribution visual, tuned to stay sleek and stylish without breaking the anime-terminal mood.
-
----
-
-## `>_ cat /var/log/ACHIEVEMENTS.log`
-
-<div align="center">
-
-<a href="https://github.com/4aDudDu">
-  <img src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=radical&no-frame=true&no-bg=true&column=4" width="100%" alt="GitHub Achievements"/>
-</a>
-
-</div>
-
----
 
 ## `>_ ./06_ESTABLISH_CONNECTION.sh`
 
