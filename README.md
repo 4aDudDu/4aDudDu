@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00ff00,50:003300,100:0d1117&section=header&text=ADRYAN%20MAHA%20PUTRA&fontSize=68&fontColor=00ff00&desc=SYSTEM.INIT()%20%7C%20FULL-STACK%20SOFTWARE%20ENGINEER&descAlign=50&descAlignY=80" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff4ddb,30:8b5cf6,60:1dd3b0,100:0d1117&section=header&text=ADRYAN%20MAHA%20PUTRA&fontSize=68&fontColor=fff7ff&desc=NEON%20TERMINAL%20//%20FULL-STACK%20ENGINEER&descAlign=50&descAlignY=80" width="100%" alt="Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=1200&color=00FF00&center=true&vCenter=true&width=720&lines=%3E_++ACCESS+GRANTED+%F0%9F%94%93;%3E_++whoami;%3E_++Adryan+Maha+Putra;%3E_++ls+-la+/projects/;%3E_++./deploy.sh+--production" alt="Typing banner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&duration=2600&pause=1200&color=7CFFB2&center=true&vCenter=true&width=760&lines=%3E_++ACCESS+GRANTED+%F0%9F%94%93;%3E_++systemctl+start+anime_mode.service;%3E_++whoami;%3E_++Adryan+Maha+Putra;%3E_++loading+skills...;%3E_++deploying+creative+systems" alt="Typing banner"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=00ff00&color=000000" alt="Status"/>
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA-000000?style=for-the-badge&labelColor=00ff00&color=000000" alt="Location"/>
-<img src="https://img.shields.io/badge/MODE-CREATIVE%20HACKER-000000?style=for-the-badge&labelColor=00ff00&color=000000" alt="Mode"/>
-<img src="https://img.shields.io/badge/VIBE-BUILDING%20SYSTEMS-000000?style=for-the-badge&labelColor=00ff00&color=000000" alt="Vibe"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=7CFFB2&color=111827" alt="Status"/>
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA-000000?style=for-the-badge&labelColor=ff4ddb&color=111827" alt="Location"/>
+<img src="https://img.shields.io/badge/MODE-ANIME%20NEON-000000?style=for-the-badge&labelColor=7DD3FC&color=111827" alt="Mode"/>
+<img src="https://img.shields.io/badge/VIBE-BUILDING%20SYSTEMS-000000?style=for-the-badge&labelColor=A78BFA&color=111827" alt="Vibe"/>
 
 <br/><br/>
 
-<img src="https://media.tenor.com/8U5xRk9FvtoAAAAi/gonor-gif-22650133.gif" width="240" alt="Animated GIF" />
+<img src="https://media.tenor.com/8U5xRk9FvtoAAAAi/gonor-gif-22650133.gif" width="220" alt="Animated GIF" />
 
 </div>
 
@@ -27,27 +27,28 @@
 
 Hi, I'm **Adryan Maha Putra**, a Software Engineer from Indonesia.
 
-Saya berfokus pada pengembangan aplikasi yang scalable, maintainable, dan user-centric. Mulai dari backend systems, web applications, mobile development, desktop software, hingga custom FiveM roleplay systems, AI/ML projects, dan internet-of-things solutions.
+I build digital systems that feel smooth, scale well, and solve real-world problems across web, mobile, desktop, AI, and game development. My work blends product thinking with engineering discipline — from backend architecture to interactive interfaces and custom automation.
 
 ```text
-root@adryan-server:~# cat profile.txt
+root@adryan-neon:~# cat profile.txt
 
 Name       : Adryan Maha Putra
 Role       : Full-Stack Software Engineer
 Location   : Indonesia
 Education  : Universitas Muhammadiyah Riau
-Focus      : Software Development
-Status     : Always Learning
+Focus      : Scalable software systems
+Status     : Always learning / building
+Motto      : Code with purpose. Ship with impact.
 ```
 
-🎓 Informatika Engineering graduate dari Universitas Muhammadiyah Riau.
+🎓 Informatika Engineering graduate from Universitas Muhammadiyah Riau.
 
-**Specialization:** Full-stack development, backend architecture, enterprise systems, desktop apps, mobile apps, computer vision, and game scripting.
+**Specialized in:** Full-stack systems, enterprise app development, backend infrastructure, Flutter apps, AI/ML experiments, FiveM scripting, and embedded/IoT integrations.
 
 </td>
 <td width="38%" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4aDudDu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=4aDudDu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7CFFB2&text_color=e2e8f0&icon_color=ff4ddb&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
 
 </td>
 </tr>
@@ -61,38 +62,78 @@ Status     : Always Learning
 <tr>
 <td width="50%" valign="top">
 
-### `[+] Languages & Frameworks`
+### `[+] Frontend / Web`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,laravel,php,codeigniter&theme=dark&perline=6" alt="Web stack"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap&theme=dark&perline=6" alt="Frontend stack"/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,py,lua,java&theme=dark&perline=7" alt="Application stack"/>
+```bash
+Frontend: React / Next.js / TypeScript / Tailwind
+UI/UX: Responsive interfaces, modern dashboards, product flow
+```
 
 </td>
 <td width="50%" valign="top">
 
-### `[+] Database & Backend`
+### `[+] Backend / API`
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,nodejs,sqlserver,mongodb&theme=dark&perline=5" alt="Database stack"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,cs,dotnet,express&theme=dark&perline=6" alt="Backend stack"/>
 
-**Also working with**
-
-`ASP.NET Core` · `VB.NET` · `REST API` · `C++` · `Arduino` · `IoT`
+```bash
+Backend: Laravel / PHP / Node.js / ASP.NET Core / C#
+API: REST API, business logic, auth, integrations, services
+```
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### `[+] DevOps & Tools`
+### `[+] Mobile / Desktop`
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,figma,vscode&theme=dark&perline=6" alt="DevOps tools"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,android,vscode,visualstudio&theme=dark&perline=6" alt="Mobile stack"/>
+
+```bash
+Mobile: Flutter / Dart / Android
+Desktop: VB.NET WinForms / Windows app development
+```
 
 </td>
 <td width="50%" valign="top">
 
-### `[+] UI / UX`
+### `[+] Database / Infra`
 
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,xd&theme=dark&perline=4" alt="UI UX tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlserver,mongodb,docker&theme=dark&perline=6" alt="Database stack"/>
+
+```bash
+Data: MySQL / PostgreSQL / Firebase / SQL Server
+Ops: Docker / Linux / Git / GitHub / Postman
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `[+] Game / Interactive Systems`
+
+<img src="https://skillicons.dev/icons?i=lua,cpp&theme=dark&perline=2" alt="Game dev stack"/>
+
+```bash
+Platform: FiveM / QBCore
+Scripting: Lua / NUI / custom system logic
+```
+
+</td>
+<td width="50%" valign="top">
+
+### `[+] AI / Embedded`
+
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow,arduino&theme=dark&perline=4" alt="AI stack"/>
+
+```bash
+AI/ML: Python / OpenCV / TensorFlow
+Hardware: Arduino / C++ / RFID / IoT
+```
 
 </td>
 </tr>
@@ -116,7 +157,7 @@ Status     : Always Learning
   Laravel / CodeIgniter / Node.js / PHP
 
 + Architecture
-  MVC / RESTful API / Clean Structure
+  MVC / RESTful APIs / Maintainable systems
 ```
 
 </td>
@@ -132,7 +173,7 @@ Status     : Always Learning
   Android / iOS
 
 + Integration
-  API / Cross-platform
+  API / Cross-platform / Scalable UI
 ```
 
 </td>
@@ -140,7 +181,7 @@ Status     : Always Learning
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Desktop & Backend
+### 🖥️ Desktop & Enterprise
 
 ```text
 + Enterprise
@@ -181,26 +222,26 @@ Status     : Always Learning
   Python / OpenCV / TensorFlow
 
 + Use Cases
-  Image classification / Object detection
+  Object recognition / visual classification
 
 + Project Style
-  ML-powered automation solutions
+  Automation + analytics-based solutions
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ Embedded & IoT
+### ⚙️ Embedded / IoT
 
 ```text
 + Hardware
   Arduino / C++ / RFID
 
 + Systems
-  Smart automation / Embedded control
+  Smart automation / transaction flows
 
 + Use Cases
-  Payment systems / IoT integration
+  Payment systems / IoT integrations
 ```
 
 </td>
@@ -217,7 +258,7 @@ Status     : Always Learning
 
 ### 🏛️ Bapenda Admin System
 
-Mobile + Web solution untuk administrasi perpajakan.
+Mobile + web solution for tax administration workflows.
 
 `React` `Laravel` `Flutter`
 
@@ -226,7 +267,7 @@ Mobile + Web solution untuk administrasi perpajakan.
 
 ### 🥥 ML Coconut Grading
 
-Computer vision untuk klasifikasi kualitas buah secara otomatis.
+Computer vision pipeline for automatic fruit quality classification.
 
 `Python` `OpenCV` `ML`
 
@@ -235,7 +276,7 @@ Computer vision untuk klasifikasi kualitas buah secara otomatis.
 
 ### 📄 Loan Doc System
 
-Automasi dokumen perjanjian kredit berbasis Excel dengan formula linking.
+Automation for credit agreement documentation with Excel logic and VBA.
 
 `Excel` `VBA` `Automation`
 
@@ -246,7 +287,7 @@ Automasi dokumen perjanjian kredit berbasis Excel dengan formula linking.
 
 ### 🤖 Hand Robot Prototype
 
-Prototype tangan robot dengan computer vision untuk kontrol berdasarkan gerakan manusia.
+Vision-based robotic hand controller using gesture recognition.
 
 `C++` `Arduino` `OpenCV`
 
@@ -255,7 +296,7 @@ Prototype tangan robot dengan computer vision untuk kontrol berdasarkan gerakan 
 
 ### 💳 RFID Payment System
 
-Sistem pembayaran berbasis IoT dan RFID.
+IoT-based payment flow with RFID and transaction logic.
 
 `C++` `Arduino` `IoT`
 
@@ -264,7 +305,7 @@ Sistem pembayaran berbasis IoT dan RFID.
 
 ### 🎮 FiveM Exclusive RP
 
-Admin website dan backend untuk server roleplay khusus.
+Web and admin system for a specialized roleplay server ecosystem.
 
 `Lua` `PHP` `FiveM`
 
@@ -278,19 +319,15 @@ Admin website dan backend untuk server roleplay khusus.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4aDudDu&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="100%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4aDudDu&hide_border=true&background=0d1117&ring=7CFFB2&fire=ff4ddb&currStreakLabel=7CFFB2&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=e2e8f0" width="100%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aDudDu&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aDudDu&layout=compact&hide_border=true&bg_color=0d1117&title_color=7CFFB2&text_color=e2e8f0" height="160" alt="Top Languages"/>
 
 <br/><br/>
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Activity"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&bg_color=0d1117&color=7CFFB2&line=ff4ddb&point=e2e8f0&area=true&area_color=7CFFB2&hide_border=true" width="100%" alt="Contribution Activity"/>
 
 </div>
 
@@ -300,11 +337,11 @@ Admin website dan backend untuk server roleplay khusus.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution matrix"/>
 
 </div>
 
-> Note: kept as a dynamic contribution visual without replacing the repo mood with a typical green-square snake eating view — still sleek and hacker-themed.
+> dynamic contribution visual, tuned to stay sleek and stylish without breaking the anime-terminal mood.
 
 ---
 
@@ -313,11 +350,7 @@ Admin website dan backend untuk server roleplay khusus.
 <div align="center">
 
 <a href="https://github.com/4aDudDu">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=radical&no-frame=true&no-bg=true&column=4"
-    width="100%"
-    alt="GitHub Achievements"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=radical&no-frame=true&no-bg=true&column=4" width="100%" alt="GitHub Achievements"/>
 </a>
 
 </div>
@@ -329,34 +362,34 @@ Admin website dan backend untuk server roleplay khusus.
 <div align="center">
 
 <a href="https://github.com/4aDudDu">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00&borderColor=00ff00" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=7CFFB2&borderColor=7CFFB2" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/adryan-maha-putra-9a0625222">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00&borderColor=00ff00" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=7DD3FC&borderColor=7DD3FC" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/adrynmhptra__">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff00&borderColor=00ff00" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff4ddb&borderColor=ff4ddb" alt="Instagram"/>
 </a>
 <a href="mailto:adriyanmahaputra009@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00&borderColor=00ff00" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA&borderColor=A78BFA" alt="Email"/>
 </a>
 
 <br/><br/>
 
 ```text
-+--------------------------------------+
-|                                      |
-|  BUILDING THE FUTURE                 |
-|  ONE COMMIT AT A TIME                |
-|                                      |
-|  > Code. Build. Improve.             |
-|  > Always keep learning.             |
-|                                      |
-+--------------------------------------+
++--------------------------------------------------+
+|                                                  |
+|  BUILDING THE FUTURE WITH NEON ENERGY            |
+|  ONE COMMIT AT A TIME                           |
+|                                                  |
+|  > Code. Build. Improve.                       |
+|  > Learn. Ship. Repeat.                         |
+|                                                  |
++--------------------------------------------------+
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00ff00,50:003300,100:0d1117&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff4ddb,40:8b5cf6,80:1dd3b0,100:0d1117&section=footer" width="100%" alt="Footer"/>
 
-<sub>© Adryan Maha Putra · Crafted with code and curiosity.</sub>
+<sub>© Adryan Maha Putra · Crafted with code, curiosity, and neon focus.</sub>
 
 </div>
