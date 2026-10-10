@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff4ddb,30:8b5cf6,60:1dd3b0,100:0d1117&section=header&text=ADRYAN%20MAHA%20PUTRA&fontSize=68&fontColor=fff7ff&desc=NEON%20TERMINAL%20//%20FULL-STACK%20ENGINEER&descAlign=50&descAlignY=80" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&reversal=false&text=4aDudDu&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=blink&rotate=0&strokeWidth=0&desc=C4tch+M3+1f+U+C4n&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="Header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&duration=2600&pause=1200&color=7CFFB2&center=true&vCenter=true&width=760&lines=%3E_++ACCESS+GRANTED+%F0%9F%94%93;%3E_++systemctl+start+anime_mode.service;%3E_++whoami;%3E_++Adryan+Maha+Putra;%3E_++loading+skills...;%3E_++deploying+creative+systems" alt="Typing banner"/>
 
@@ -362,7 +362,7 @@ Web and admin system for a specialized roleplay server ecosystem.
 +--------------------------------------------------+
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:ff4ddb,40:8b5cf6,80:1dd3b0,100:0d1117&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=timeGradient&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=blink&rotate=0&strokeWidth=0&desc=C4tch+M3+1f+U+C4n&descSize=20&descAlign=50&descAlignY=60" width="100%" alt="Footer"/>
 
 <sub>© Adryan Maha Putra · Crafted with code, curiosity, and neon focus.</sub>
 
