@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff006e,30:8338ec,60:3a86ff,100:0a0e27&section=header&text=SYSTEM%20OVERRIDE&fontSize=60&fontColor=00f0ff&desc=NEON%20TERMINAL%20ENGAGED&descAlign=50&descAlignY=85&rotate=-5" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00ff00,50:003300,100:0a0e27&section=header&text=SYSTEM%20OVERRIDE&fontSize=60&fontColor=00ff00&desc=ELITE%20HACKER%20TERMINAL&descAlign=50&descAlignY=85" width="100%" alt="Header"/>
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=20&duration=2000&pause=800&color=00f0ff&center=true&vCenter=true&width=800&lines=%3E%3E%3E_INITIALIZING_SYSTEM...;%3E%3E%3E_ACCESS_GRANTED_%F0%9F%94%93;%3E%3E%3E_LOADING_HACKER_MODE;%3E%3E%3E_sudo_rm+-rf+ordinary_code;%3E%3E%3E_executing_elite_scripts.exe" alt="Terminal typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=20&duration=2000&pause=800&color=00ff00&center=true&vCenter=true&width=800&lines=%3E%3E%3E_INITIALIZING_SYSTEM...;%3E%3E%3E_ACCESS_GRANTED_%F0%9F%94%93;%3E%3E%3E_LOADING_HACKER_MODE;%3E%3E%3E_sudo+rm+-rf+ordinary_code;%3E%3E%3E_executing+elite+scripts.exe" alt="Terminal typing"/>
 
 <br/><br/>
 
@@ -23,20 +23,20 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡_STATUS-LIVE_HACKING-ff006e?style=for-the-badge&logo=vim&logoColor=00f0ff"/>
-<img src="https://img.shields.io/badge/🔥_MODE-ELITE_ESPORTS-8338ec?style=for-the-badge&logo=gamepad&logoColor=00f0ff"/>
-<img src="https://img.shields.io/badge/💻_LOCATION-INDO_HACKER_BASE-3a86ff?style=for-the-badge&logo=server&logoColor=00f0ff"/>
-<img src="https://img.shields.io/badge/⚔️_SKILL-FULL_STACK_WARRIOR-00f0ff?style=for-the-badge&logo=hacksplaining&logoColor=ff006e"/>
+<img src="https://img.shields.io/badge/⚡_STATUS-LIVE_HACKING-000000?style=for-the-badge&labelColor=00ff00&color=0a0e27"/>
+<img src="https://img.shields.io/badge/🔥_MODE-ELITE_ESPORTS-000000?style=for-the-badge&labelColor=00ff00&color=0a0e27"/>
+<img src="https://img.shields.io/badge/💻_LOCATION-INDO_HACKER_BASE-000000?style=for-the-badge&labelColor=00ff00&color=0a0e27"/>
+<img src="https://img.shields.io/badge/⚔️_SKILL-FULL_STACK_WARRIOR-000000?style=for-the-badge&labelColor=00ff00&color=0a0e27"/>
 
 <br/><br/>
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║          FULL-STACK DEVELOPER × ESPORTS HACKER           ║
-║          Building Production Systems at Supersonic Speed   ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+█                                                           █
+█   FULL-STACK DEVELOPER × ELITE HACKER MODE ENGAGED      █
+█   Building Production Systems at Supersonic Speed        █
+█                                                           █
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 </div>
@@ -85,11 +85,11 @@ $ fortune
 </td>
 <td width="40%" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4aDudDu&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00f0ff&text_color=e0f7ff&icon_color=ff006e&include_all_commits=true&count_private=true&ring_color=8338ec" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=4aDudDu&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00ff00&text_color=e0f7ff&icon_color=00ff00&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aDudDu&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00f0ff&text_color=e0f7ff&langs_count=8" width="100%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4aDudDu&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00ff00&text_color=e0f7ff&langs_count=8" width="100%" alt="Top Languages"/>
 
 </td>
 </tr>
@@ -102,9 +102,9 @@ $ fortune
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║              HACKER'S FULL-STACK ARSENAL                     ║
-╚═══════════════════════════════════════════════════════════════╝
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+█  HACKER'S FULL-STACK ARSENAL                          █
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 </div>
@@ -239,10 +239,9 @@ Responsive Layouts
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                  MISSION ACCOMPLISHED                        ║
-║              Featured Projects & Operations                  ║
-╚═══════════════════════════════════════════════════════════════╝
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+█  MISSION ACCOMPLISHED - FEATURED PROJECTS             █
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 </div>
@@ -326,25 +325,7 @@ Full-stack roleplay server with custom admin dashboard + integrations.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4aDudDu&hide_border=true&background=0a0e27&ring=ff006e&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=3a86ff&currStreakNum=e0f7ff&sideNums=e0f7ff&dates=8338ec" width="100%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&bg_color=0a0e27&color=00f0ff&line=ff006e&point=8338ec&area=true&area_color=3a86ff&hide_border=true&title_color=00f0ff" width="100%" alt="Contribution Activity"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Matrix"/>
-
-</div>
-
----
-
-## `➤ cat /var/log/ACHIEVEMENTS.log`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=darkhub&no-frame=false&no-bg=true&column=4&row=2" width="100%" alt="GitHub Achievements"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4aDudDu&hide_border=true&background=0a0e27&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&currStreakNum=e0f7ff&sideNums=e0f7ff&dates=00ff00" width="100%" alt="GitHub Streak"/>
 
 </div>
 
@@ -355,44 +336,44 @@ Full-stack roleplay server with custom admin dashboard + integrations.
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                  ESTABLISH SECURE TUNNEL                     ║
-╚═══════════════════════════════════════════════════════════════╝
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+█  ESTABLISH SECURE TUNNEL                              █
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 <br/>
 
 <a href="https://github.com/4aDudDu">
-<img src="https://img.shields.io/badge/GitHub-FF006E?style=for-the-badge&logo=github&logoColor=00f0ff&borderColor=00f0ff&border=3" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff00&borderColor=00ff00" alt="GitHub"/>
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/adryan-maha-putra-9a0625222">
-<img src="https://img.shields.io/badge/LinkedIn-8338EC?style=for-the-badge&logo=linkedin&logoColor=00f0ff&borderColor=00f0ff&border=3" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00&borderColor=00ff00" alt="LinkedIn"/>
 </a>&nbsp;&nbsp;
 <a href="https://instagram.com/adrynmhptra__">
-<img src="https://img.shields.io/badge/Instagram-3A86FF?style=for-the-badge&logo=instagram&logoColor=00f0ff&borderColor=00f0ff&border=3" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff00&borderColor=00ff00" alt="Instagram"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:adriyanmahaputra009@gmail.com">
-<img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=ff006e&borderColor=ff006e&border=3" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff00&borderColor=00ff00" alt="Email"/>
 </a>
 
 <br/><br/>
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  >>> SYSTEM READY FOR NEXT MISSION                       ║
-║  >>> CODE EXECUTION SPEED: SUPERSONIC                    ║
-║  >>> QUALITY LEVEL: ENTERPRISE GRADE                     ║
-║  >>> CREATIVE ENERGY: MAXIMUM OVERDRIVE                  ║
-║                                                            ║
-║  git commit -m "shipping elite code faster than light"   ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+█                                                       █
+█  >>> SYSTEM READY FOR NEXT MISSION                   █
+█  >>> CODE EXECUTION SPEED: SUPERSONIC                █
+█  >>> QUALITY LEVEL: ENTERPRISE GRADE                 █
+█  >>> CREATIVE ENERGY: MAXIMUM OVERDRIVE              █
+█                                                       █
+█  git commit -m "shipping elite code faster than light"█
+█                                                       █
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff006e,30:8338ec,60:3a86ff,100:0a0e27&section=footer&text=STAY%20NEON.%20STAY%20ELITE.%20STAY%20SHIPPING%20%F0%9F%94%A5&fontSize=16&fontColor=00f0ff" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff00,50:003300,100:0a0e27&section=footer&text=STAY%20GREEN.%20STAY%20ELITE.%20STAY%20HACKING%20%F0%9F%94%A5&fontSize=16&fontColor=00ff00" width="100%" alt="Footer"/>
 
 <sub>© Adryan Maha Putra · Hacker's Heart · Code's Soul · Always Pushing Limits ⚡</sub>
 
