@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0d1117&text=ADRYAN%20MAHA%20PUTRA&fontSize=42&fontColor=00ff00&fontAlignY=42&desc=SYSTEM.INIT()%20%7C%20FULL-STACK%20SOFTWARE%20ENGINEER&descSize=15&descColor=c9d1d9&descAlignY=62" width="100%" alt="Adryan Maha Putra"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00ff00,50:003300,100:0d1117&section=header&text=ADRYAN%20MAHA%20PUTRA&fontSize=68&fontColor=00ff00&desc=SYSTEM.INIT()%20%7C%20FULL-STACK%20SOFTWARE%20ENGINEER&descAlign=50&descAlignY=80" width="100%" alt="Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_++ACCESS+GRANTED;%3E_++whoami;%3E_++Software+Engineer;%3E_++Code+%2F+Build+%2F+Improve;%3E_++Building+the+future%2C+one+commit+at+a+time..." alt="Terminal"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=2600&pause=1200&color=00FF00&center=true&vCenter=true&width=720&lines=%3E_++ACCESS+GRANTED+%F0%9F%94%93;%3E_++whoami;%3E_++Adryan+Maha+Putra;%3E_++ls+-la+/projects/;%3E_++./deploy.sh+--production" alt="Typing banner"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=00ff00&color=000000"/>
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA-000000?style=for-the-badge&labelColor=00ff00&color=000000"/>
-<img src="https://img.shields.io/badge/MODE-CREATIVE-000000?style=for-the-badge&labelColor=00ff00&color=000000"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=00ff00&color=000000" alt="Status"/>
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA-000000?style=for-the-badge&labelColor=00ff00&color=000000" alt="Location"/>
+<img src="https://img.shields.io/badge/MODE-CREATIVE%20HACKER-000000?style=for-the-badge&labelColor=00ff00&color=000000" alt="Mode"/>
+<img src="https://img.shields.io/badge/VIBE-BUILDING%20SYSTEMS-000000?style=for-the-badge&labelColor=00ff00&color=000000" alt="Vibe"/>
+
+<br/><br/>
+
+<img src="https://media.tenor.com/8U5xRk9FvtoAAAAi/gonor-gif-22650133.gif" width="240" alt="Animated GIF" />
 
 </div>
 
@@ -22,7 +27,7 @@
 
 Hi, I'm **Adryan Maha Putra**, a Software Engineer from Indonesia.
 
-Saya berfokus pada pengembangan aplikasi yang scalable, maintainable, dan user-centric. Mulai dari backend systems, web applications, mobile development, desktop software, hingga custom FiveM roleplay systems.
+Saya berfokus pada pengembangan aplikasi yang scalable, maintainable, dan user-centric. Mulai dari backend systems, web applications, mobile development, desktop software, hingga custom FiveM roleplay systems, AI/ML projects, dan internet-of-things solutions.
 
 ```text
 root@adryan-server:~# cat profile.txt
@@ -37,10 +42,12 @@ Status     : Always Learning
 
 🎓 Informatika Engineering graduate dari Universitas Muhammadiyah Riau.
 
+**Specialization:** Full-stack development, backend architecture, enterprise systems, desktop apps, mobile apps, computer vision, and game scripting.
+
 </td>
 <td width="38%" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4aDudDu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=4aDudDu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats"/>
 
 </td>
 </tr>
@@ -56,20 +63,20 @@ Status     : Always Learning
 
 ### `[+] Languages & Frameworks`
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,laravel,php&theme=dark&perline=6" alt="Web stack"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,laravel,php,codeigniter&theme=dark&perline=6" alt="Web stack"/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,py,lua&theme=dark&perline=6" alt="Application stack"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,dotnet,cs,py,lua,java&theme=dark&perline=7" alt="Application stack"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### `[+] Database & Backend`
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,nodejs&theme=dark&perline=5" alt="Database stack"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,nodejs,sqlserver,mongodb&theme=dark&perline=5" alt="Database stack"/>
 
 **Also working with**
 
-`Microsoft SQL Server` · `ASP.NET Core` · `VB.NET` · `REST API`
+`ASP.NET Core` · `VB.NET` · `REST API` · `C++` · `Arduino` · `IoT`
 
 </td>
 </tr>
@@ -78,14 +85,14 @@ Status     : Always Learning
 
 ### `[+] DevOps & Tools`
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman&theme=dark&perline=5" alt="DevOps tools"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,figma,vscode&theme=dark&perline=6" alt="DevOps tools"/>
 
 </td>
 <td width="50%" valign="top">
 
 ### `[+] UI / UX`
 
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma&theme=dark&perline=3" alt="UI UX tools"/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma,xd&theme=dark&perline=4" alt="UI UX tools"/>
 
 </td>
 </tr>
@@ -103,13 +110,13 @@ Status     : Always Learning
 
 ```text
 + Frontend
-  React / Next.js / Vite
+  React / Next.js / Vite / Tailwind
 
 + Backend
-  Laravel / CodeIgniter / Node.js
+  Laravel / CodeIgniter / Node.js / PHP
 
 + Architecture
-  MVC / RESTful API
+  MVC / RESTful API / Clean Structure
 ```
 
 </td>
@@ -137,13 +144,13 @@ Status     : Always Learning
 
 ```text
 + Enterprise
-  ASP.NET Core
+  ASP.NET Core / C#
 
 + Desktop
   VB.NET WinForms
 
 + Database
-  SQL Server / MySQL
+  SQL Server / MySQL / PostgreSQL
 ```
 
 </td>
@@ -160,6 +167,40 @@ Status     : Always Learning
 
 + Ecosystem
   ox_inventory / ox_target
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI / Computer Vision
+
+```text
++ Stack
+  Python / OpenCV / TensorFlow
+
++ Use Cases
+  Image classification / Object detection
+
++ Project Style
+  ML-powered automation solutions
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Embedded & IoT
+
+```text
++ Hardware
+  Arduino / C++ / RFID
+
++ Systems
+  Smart automation / Embedded control
+
++ Use Cases
+  Payment systems / IoT integration
 ```
 
 </td>
@@ -200,15 +241,44 @@ Automasi dokumen perjanjian kredit berbasis Excel dengan formula linking.
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 Hand Robot Prototype
+
+Prototype tangan robot dengan computer vision untuk kontrol berdasarkan gerakan manusia.
+
+`C++` `Arduino` `OpenCV`
+
+</td>
+<td width="33%" valign="top">
+
+### 💳 RFID Payment System
+
+Sistem pembayaran berbasis IoT dan RFID.
+
+`C++` `Arduino` `IoT`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 FiveM Exclusive RP
+
+Admin website dan backend untuk server roleplay khusus.
+
+`Lua` `PHP` `FiveM`
+
+</td>
+</tr>
 </table>
 
 ---
 
-## `>_ ./05_GITHUB_ANALYTICS.sh`
+## `>_ ./04_GITHUB_ANALYTICS.sh`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4aDudDu&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4aDudDu&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" width="100%" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -226,23 +296,15 @@ Automasi dokumen perjanjian kredit berbasis Excel dengan formula linking.
 
 ---
 
-## `>_ ./06_CONTRIBUTION_SNAKE.sh`
+## `>_ ./05_CONTRIBUTION_MATRIX.sh`
 
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg"
-      width="100%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
+<img src="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 
 </div>
+
+> Note: kept as a dynamic contribution visual without replacing the repo mood with a typical green-square snake eating view — still sleek and hacker-themed.
 
 ---
 
@@ -250,19 +312,19 @@ Automasi dokumen perjanjian kredit berbasis Excel dengan formula linking.
 
 <div align="center">
 
-  <a href="https://github.com/4aDudDu">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=radical&no-frame=true&no-bg=true&column=4"
-      width="100%"
-      alt="GitHub Achievements"
-    />
-  </a>
+<a href="https://github.com/4aDudDu">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=radical&no-frame=true&no-bg=true&column=4"
+    width="100%"
+    alt="GitHub Achievements"
+  />
+</a>
 
 </div>
 
 ---
 
-## `>_ ./08_ESTABLISH_CONNECTION.sh`
+## `>_ ./06_ESTABLISH_CONNECTION.sh`
 
 <div align="center">
 
