@@ -216,7 +216,11 @@ Automasi dokumen perjanjian kredit berbasis Excel dengan formula linking.
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&bg_color=0d1117&color=c9d1d9&line=ffffff&point=aaaaaa&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY" width="100%" alt="Contribution Activity"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=4aDudDu&bg_color=0d1117&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Activity"
+  />
 
 </div>
 
@@ -226,7 +230,17 @@ Automasi dokumen perjanjian kredit berbasis Excel dengan formula linking.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/4aDudDu/4aDudDu/output/github-contribution-grid-snake.svg"
+      width="100%"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
 
 </div>
 
@@ -236,7 +250,13 @@ Automasi dokumen perjanjian kredit berbasis Excel dengan formula linking.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10" width="100%" alt="GitHub Achievements"/>
+  <a href="https://github.com/4aDudDu">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=4aDudDu&theme=darkhub&no-frame=true&no-bg=true&column=4"
+      width="100%"
+      alt="GitHub Achievements"
+    />
+  </a>
 
 </div>
 
