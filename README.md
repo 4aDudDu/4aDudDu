@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=7CFFB2&color=111827" alt="Status"/>
 <img src="https://img.shields.io/badge/LOCATION-INDONESIA-000000?style=for-the-badge&labelColor=ff4ddb&color=111827" alt="Location"/>
-<img src="https://img.shields.io/badge/MODE-ANIME%20NEON-000000?style=for-the-badge&labelColor=7DD3FC&color=111827" alt="Mode"/>
+<img src="https://img.shields.io/badge/CAN-YOU%20CATCHME-000000?style=for-the-badge&labelColor=7DD3FC&color=111827" alt="Mode"/>
 <img src="https://img.shields.io/badge/VIBE-BUILDING%20SYSTEMS-000000?style=for-the-badge&labelColor=A78BFA&color=111827" alt="Vibe"/>
 
 <br/><br/>
